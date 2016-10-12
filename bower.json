@@ -1,10 +1,10 @@
 {
-  "name": "magiz-c-course",
+  "name": "magiz-c-video",
   "version": "1.0.0",
   "authors": [
     "Vu Anh <brother.rain.1024@gmail.com>"
   ],
-  "description": "Book Component UI",
+  "description": "Video Component UI",
   "keywords": [
     "component"
   ],
