@@ -1,5 +1,5 @@
 {
-  "name": "magiz-c-book",
+  "name": "magiz-c-course",
   "version": "1.0.0",
   "authors": [
     "Vu Anh <brother.rain.1024@gmail.com>"
@@ -16,5 +16,8 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
 }

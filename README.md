@@ -1,11 +1,11 @@
-## magiz-c-book : Book Component UI
+## magiz-c-course : Course Component UI
 
-![Bower](https://img.shields.io/bower/v/magiz-c-book.svg)
+![Bower](https://img.shields.io/bower/v/magiz-c-course.svg)
 
 ### Installation
 
 ```
-bower install magiz-c-book
+bower install magiz-c-course
 ```
 
 ### Usage
@@ -13,18 +13,18 @@ bower install magiz-c-book
 Insert scripts and styles in `index.html`
 
 ```html
-<link rel="stylesheet" href="./src/book.css">
+<link rel="stylesheet" href="./src/course.css">
 
 <script src="./src/gspreadsheet.js"></script>
-<script src="./src/book.js"></script>
+<script src="./src/course.js"></script>
 ```
 
 Add paper dom to your html
 
 ```
-<div class="books" gid="google0spread0sheet0id"></div>
+<div class="courses" gid="google0spread0sheet0id"></div>
 ```
 
 Result
 
-![](http://i.imgur.com/i8LAf9V.png)
+![](http://i.imgur.com/5nw3bOg.png)
