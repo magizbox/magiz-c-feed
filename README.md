@@ -1,11 +1,11 @@
-## magiz-c-course : Video Component UI
+## magiz-c-feed: Feed Component UI
 
 ![Bower](https://img.shields.io/bower/v/magiz-c-course.svg)
 
 ### Installation
 
 ```
-bower install magiz-c-video
+bower install magiz-c-feed
 ```
 
 ### Usage
@@ -13,18 +13,18 @@ bower install magiz-c-video
 Insert scripts and styles in `index.html`
 
 ```html
-<link rel="stylesheet" href="./src/video.css">
+<link rel="stylesheet" href="./src/feed.css">
 
 <script src="./src/gspreadsheet.js"></script>
-<script src="./src/video.js"></script>
+<script src="./src/feed.js"></script>
 ```
 
-Add video dom to your html
+Add feed dom to your html
 
 ```
-<div class="videos" gid="google0spread0sheet0id"></div>
+<div class="feeds" gid="1zEcae1--KnPmoK9GH3brsZSqNjbGR-Xa0ONpZ1VFGpA"></div>
 ```
 
 Result
 
-![](http://i.imgur.com/xWD1LxE.png)
+![](screenshot.png)
